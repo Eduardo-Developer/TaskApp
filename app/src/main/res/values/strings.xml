@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+
+    <!--    Status Task-->
+    <string name="status_task_todo">A Fazer</string>
+    <string name="status_task_doing">Fazendo</string>
+    <string name="status_task_done">Feitas</string>
+
+    <!--    Generic-->
+    <string name="text_title_warning">Atenção</string>
+    <string name="text_button_warning">Entendi</string>
+    <string name="hint_edit_email">Digite seu e-mail</string>
+    <string name="email_text">E-mail</string>
+    <string name="email_empty">Informe seu e-mail.</string>
+    <string name="password_text">Senha</string>
+    <string name="password_empty">Informe sua senha.</string>
+    <string name="hint_edit_password">Digite sua senha</string>
+    <string name="error_generic">Ocorreu um erro! Tente novamente mais tarde.</string>
+    <string name="text_list_task_empty">Nenhuma tarefa cadastrada.</string>
+    <string name="text_list_task_loading">Aguarde, estamos carregando suas informações.</string>
+    <string name="text_delete_success_task">Tarefa removida com sucesso.</string>
+    <string name="text_dialog_confirm_button">Confirmar</string>
+    <string name="text_title_dialog_delete">Deseja remover esta tarefa?.</string>
+    <string name="text_message_dialog_delete">Aperte em confirmar para remover a tarefa.</string>
+
+    <!--    Login Fragment-->
+    <string name="text_title_login_fragment">Login</string>
+    <string name="text_button_register_login_fragment">Criar conta</string>
+    <string name="text_button_recover_login_fragment">Recuperar conta</string>
+
+    <!--    Register Fragment-->
+    <string name="email_empty_register_fragment">Informe um e-mail válido.</string>
+    <string name="password_empty_register_fragment">Informe uma senha.</string>
+    <string name="text_button_register_fragment">Criar conta</string>
+    <string name="text_title_toolbar_register_fragment">Criar conta</string>
+
+    <!--    Recover Account Fragment-->
+    <string name="text_info_recover_account_fragment">Informe seu e-mail de cadastro para receber \num link para alteração da senha.</string>
+    <string name="text_title_toolbar_recover_account_fragment">Recuperar conta</string>
+    <string name="text_button_recover_account_fragment">Enviar</string>
+    <string name="text_message_recover_account_fragment">Pronto! Acabamos de enviar um link para seu e-mail.</string>
+
+    <!--    Home Fragment-->
+    <string name="text_dialog_confirm_logout">Deseja sair da sua conta?</string>
+    <string name="text_button_confirm_logout">Confirmar</string>
+    <string name="text_message_confirm_logout">Aperte em confirmar para sair da sua conta</string>
+
+
+    <!--    Form Task Fragment-->
+    <string name="text_title_toolbar_form_task_fragment">Nova tarefa</string>
+    <string name="description_empty_form_task_fragment">Informe uma descrição.</string>
+    <string name="text_status_form_task_fragment">Status</string>
+    <string name="text_description_form_task_fragment">Descrição</string>
+    <string name="hint_edit_description_form_task_fragment">Criar nova tela de login do app</string>
+    <string name="text_button_form_task_fragment">Salvar</string>
+    <string name="text_save_success">Tarefa salva com sucesso!</string>
+    <string name="text_edit_success">Tarefa atualizada com sucesso!</string>
+    <string name="text_edit_title_toolbar">Editando tarefa</string>
+
+    <!--    Erros Firebase -->
+
+    <string name="account_not_registered_register_fragment">Nenhuma conta encontrada com esse e-mail</string>
+    <string name="invalid_email_register_fragment">Insira um e-mail válido</string>
+    <string name="invalid_password_register_fragment">Senha inválida, tente novamente</string>
+    <string name="email_in_use_register_fragment">Este e-mail já está em uso</string>
+    <string name="strong_password_register_fragment">Insira uma senha mais forte</string>
+
+
+</resources>

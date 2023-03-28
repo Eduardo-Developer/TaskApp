@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061507070469",
+    "project_id": "taskappkotlin",
+    "storage_bucket": "taskappkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061507070469:android:eec76dcbe3bf3254d57a6c",
+        "android_client_info": {
+          "package_name": "com.example.taskapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061507070469-7id5anes1s4co3kuooqkavio5s0saq3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ8tdv5Pi_Vr_myQBk00eEztTVhUH39_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061507070469-7id5anes1s4co3kuooqkavio5s0saq3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
